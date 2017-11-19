@@ -1,0 +1,22 @@
+# fuse
+build
+dist # old build folder
+.fusebox
+
+# dolphin
+.directory
+
+# mocha
+.tmp
+.idea
+!.idea/inspectionProfiles/*
+!.idea/codeStyleSettings.xml
+
+.vscode/
+**/.idea/tasks.xml
+.idea/terminal.xml
+.DS_Store
+thumbs.db
+*.log
+node_modules/
+yarn.lock

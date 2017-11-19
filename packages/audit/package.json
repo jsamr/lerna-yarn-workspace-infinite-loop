@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "@mynamespace/audit",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@tools/npm-make": "*"
+  }
+}

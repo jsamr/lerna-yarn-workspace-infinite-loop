@@ -1,0 +1,9 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@mynamespace/corestyles": "^1.0.0",
+    "@mynamespace/theme-engine": "^1.0.0"
+  }
+}

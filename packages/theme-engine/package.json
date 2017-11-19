@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "@mynamespace/theme-engine",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@tools/npm-make": "*"
+  },
+  "dependencies": {
+    "@mynamespace/audit": "^1.0.0"
+  }
+}

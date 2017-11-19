@@ -1,0 +1,19 @@
+{
+  "name": "lerna-yarn-workspace-infinite-loop",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "postinstall": "lerna bootstrap"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  },
+  "workspaces": [
+    "packages/*",
+    "tools/*",
+    "stack"
+  ]
+}
